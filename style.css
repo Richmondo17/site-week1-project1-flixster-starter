@@ -1,1 +1,25 @@
+#flixsterTitle { 
+    text-transform: uppercase;
+    text-align: center;
+    margin: 20px 0;
+    background-color: black;
+    color:azure;
+}
 
+#searchBar {
+    text-align: center;
+    margin: 20px 0;
+}
+#movies{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-around;
+    flex-direction:row;
+    color:white;
+    background-color: black;
+}
+
+.loading{
+    text-align: center;
+    margin: 20px 0;
+}

@@ -1,25 +1,92 @@
+body{
+    background-color: black;
+}
+
 #flixsterTitle { 
+    text-align: center;
+    margin: 20px 0;
+    color: wheat;
+}
+
+#nowPlaying{
     text-transform: uppercase;
     text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     margin: 20px 0;
-    background-color: black;
-    color:azure;
+    color: wheat;
 }
 
-#searchBar {
-    text-align: center;
-    margin: 20px 0;
+#movie-image{
+    width:200px;
+    height: auto;
 }
-#movies{
+
+#searchBar{
+    color:antiquewhite;
+    font-size: 100px;
+    text-align: center;
+    justify-content: center;
+    align-self: self;
+}
+
+#search-button{
+    width:100px;
+    height:60px;
+    color: wheat;
+    background-color: rgba(232, 70, 52, 0.594);
+    border: outset rgb(245, 243, 243);
+    font-family: Tahoma;
+}
+
+#search-button:hover{
+    color:rgb(2, 2, 2) ;
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+
+#search-input{
+    width: 500px;
+    height:30px;
+    border: outset #f33;
+}
+.movie-card:hover{
+    color:rgb(250, 249, 249) ;
+    transform: scale(1.1);
+    transition: 0.5s;
+
+}
+.movie-card{
+    font-size: 18px;
+    color: wheat;
+}
+.movie-item{
+    color:rgb(244, 235, 235);
+}
+
+.movie-poster{
+    border: outset #f33;
+    border-width: 20;
+}
+
+.movieGrid{
     display:flex;
-    flex-wrap:wrap;
-    justify-content:space-around;
-    flex-direction:row;
-    color:white;
-    background-color: black;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-direction: row;
+    background-color:rgb(10, 10, 10);
+  }
+
+#load-more-movies-btn{
+    width: 150px;
+    text-align: center;
+    background-color: rgba(232, 70, 52, 0.594);
+    color: wheat;
+    padding: 10px 20px;
+    border-radius: 10px;
 }
 
-.loading{
-    text-align: center;
-    margin: 20px 0;
+#load-more-movies-btn:hover{
+    color:rgb(226, 13, 13) ;
+    transform: scale(1.1);
+    transition: 0.5s;
 }

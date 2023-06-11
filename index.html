@@ -11,16 +11,20 @@
 </head>
 <body>
     <h1 id="flixsterTitle">Rich Flixster🍿</h1>
+    <h3 id="nowPlaying">Now Playing</h3>
 
     <form id="searchBar">
+        <label for="search-input"></label>
         <input id="search-input" required name="search" placeholder="Enter a movie name" class="" />
         <button id="search-button" type="submit" class="search-btn">Search Movie!</button>
-    </form>
+    </form><br>
 
-    <div id="movies"></div>
+    <div id="movie-grid" class="movieGrid">
 
-    <div class="show-more-movies">
-            <button id="loadMore" type="button" class="loading">Load More</button>
+    </div>
+
+    <div>
+        <button id="load-more-movies-btn">Load More</button>
     </div>
 
 </body>

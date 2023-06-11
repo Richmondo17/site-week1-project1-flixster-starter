@@ -31,7 +31,7 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 - [ ] Allow movie video trailers to be played using [embedded YouTube](https://support.google.com/youtube/answer/171780?hl=en)
 - [ ] Implement anything else that you can get done to improve the app functionality!
 ### Walkthrough Video
-https://www.loom.com/share/12fcf730d2eb44bea7b65b7ef5fc4483
+https://www.loom.com/share/f22c0f3ca77942ce86b7e0fdda6aa0fc
 `ADD_EMBEDDED_CODE_HERE`
 ### Reflection
 - Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?

@@ -32,6 +32,8 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 - [ ] Implement anything else that you can get done to improve the app functionality!
 ### Walkthrough Video
 `TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video or gif actually renders and animates when viewing this README. (:no_entry_sign: Remove this paragraph after adding walkthrough video)
+
+https://www.loom.com/share/384dd635ae0d497b9e297435c0f708d0
 `ADD_EMBEDDED_CODE_HERE`
 ### Reflection
 - Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?

@@ -2,7 +2,7 @@
 ## Week 1 Assignment: Flixster
 Submitted by: **Richmond Akondo**
 Estimated time spent: **13** hours spent in total
-Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
+Deployed Application (optional): [Flixster Deployed Site] (ADD_LINK_HERE)
 ### Application Features
 #### Core Features
 - [X] User can view a list of current movies from The Movie Database API as a grid view
